@@ -9,7 +9,7 @@ public class Main  {
         int sg = 1;
         do{
             System.out.println(b+"X"+sg+"="+sg*b);
-            ++sg;
+            sg++;
         }
         while(sg<11);
         int c = 10;
